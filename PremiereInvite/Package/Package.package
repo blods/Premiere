@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="902ab9a7-8adf-410f-903d-41dacde0e346" solutionId="902ab9a7-8adf-410f-903d-41dacde0e346" resetWebServer="false" name="PremiereInvite" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="b7eda1c1-e7a9-4e5b-8fe3-0cb7a9363068" />
+  </features>
+</package>
